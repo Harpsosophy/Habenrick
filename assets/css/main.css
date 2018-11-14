@@ -2632,10 +2632,10 @@ input, select, textarea {
 			}
 
 			.mini-post .image:hover img {
-				-moz-transform: scale(2);
-				-webkit-transform: scale(2);
-				-ms-transform: scale(2);
-				transform: scale(2);
+				-moz-transform: scale(1.05);
+				-webkit-transform: scale(1.05);
+				-ms-transform: scale(1.05);
+				transform: scale(1.05);
 			}
 
 		.mini-post header {
@@ -2794,7 +2794,7 @@ input, select, textarea {
 				-moz-transform: scale(1.05);
 				-webkit-transform: scale(1.05);
 				-ms-transform: scale(1.05);
-				transform: scale(1.05);
+				transform: scale(2);
 			}
 
 		.post > footer {
