@@ -3171,10 +3171,12 @@ input, select, textarea {
 				#header .links ul li a {
 					border-bottom: 0;
 					font-family: "Raleway", Helvetica, sans-serif;
-					font-size: 1em;
+					font-size: 0.7em;
 					font-weight: 400;
 					letter-spacing: 0.25em;
 					text-transform: uppercase;
+					border-left: solid 1px rgba(160, 160, 160, 0.3);
+					border-right: solid 1px rgba(160, 160, 160, 0.3);
 				}
 
 		#header .main {
