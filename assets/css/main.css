@@ -3160,6 +3160,8 @@ input, select, textarea {
 				line-height: 1;
 				margin-left: 1em;
 				padding-left: 1em;
+				Height: 20px;
+				Width: 70px;
 			}
 
 				#header .links ul li:first-child {
@@ -3179,8 +3181,6 @@ input, select, textarea {
 					padding-top-bottom: 20px;
 					padding-left-right: 10px;
 					margin: 10px;
-					Height: 20px;
-					Width: 70px;
 				}
 
 		#header .main {
